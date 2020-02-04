@@ -1,5 +1,6 @@
 
 public class Atm {
+	
 public static void main(String[] args) {
 	Bank obj=new Bank();
 	obj.updatePin(123456, 1325, 2222);

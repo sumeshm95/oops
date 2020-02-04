@@ -1,40 +1,44 @@
 
-public  class ChromeDriver implements WebDriver {
+public  class ChromeDriver extends RemoteDriver implements WebDriver{
 
 	@Override
 	public void Click() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void getText() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void Wait() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void ScrenShot() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void Text() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void SetTime() {
-		System.out.println("From chromedriver");
+		// TODO Auto-generated method stub
 		
 	}
+	
+	
+	
+
 
 }
